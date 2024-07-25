@@ -1,4 +1,4 @@
-#Algorithm for OCR images of registrations
+# Algorithm for OCR images of registrations
 
 The algorithm uses the macocr Python library.
 It heavily relies on a geometric approach,
